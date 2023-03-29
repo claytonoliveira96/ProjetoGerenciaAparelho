@@ -1,0 +1,1 @@
+﻿[{"Id":1,"Nome":"DVD Player","Tipo":1},{"Id":2,"Nome":"CD Player","Tipo":2},{"Id":3,"Nome":"dvd sala1","Tipo":1},{"Id":4,"Nome":"dvd sala2","Tipo":1},{"Id":5,"Nome":"dvd sala3","Tipo":1},{"Id":6,"Nome":"dvd sala4","Tipo":1}]

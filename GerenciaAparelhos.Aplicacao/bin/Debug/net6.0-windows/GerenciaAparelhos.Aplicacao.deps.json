@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GerenciaAparelhos.Aplicacao/1.0.0": {
+        "dependencies": {
+          "GerenciaAparelhos.Business": "1.0.0",
+          "GerenciaAparelhos.Models": "1.0.0"
+        },
+        "runtime": {
+          "GerenciaAparelhos.Aplicacao.dll": {}
+        }
+      },
+      "GerenciaAparelhos.Business/1.0.0": {
+        "dependencies": {
+          "GerenciaAparelhos.Models": "1.0.0",
+          "GerenciaAparelhos.Repository": "1.0.0"
+        },
+        "runtime": {
+          "GerenciaAparelhos.Business.dll": {}
+        }
+      },
+      "GerenciaAparelhos.Models/1.0.0": {
+        "runtime": {
+          "GerenciaAparelhos.Models.dll": {}
+        }
+      },
+      "GerenciaAparelhos.Repository/1.0.0": {
+        "dependencies": {
+          "GerenciaAparelhos.Models": "1.0.0"
+        },
+        "runtime": {
+          "GerenciaAparelhos.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciaAparelhos.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerenciaAparelhos.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerenciaAparelhos.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerenciaAparelhos.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
